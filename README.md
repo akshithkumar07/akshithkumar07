@@ -14,7 +14,7 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 🔹 My Projects:
 
-🧠 Parkinson’s Disease Prediction – Built an ML model (SVM) with 91% accuracy
+🧠 Exploratory Data Analysis 
 
 🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
 
