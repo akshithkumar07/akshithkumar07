@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+##<!--
 **akshithkumar07/akshithkumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, I’m Akshith Kumar, a passionate Data Analyst & Python Developer with a strong foundation in Data Science, SQL, and Machine Learning. I recently graduated with a B.Tech in Computer Science (AI & ML), and I enjoy turning raw data into meaningful insights and solutions.
