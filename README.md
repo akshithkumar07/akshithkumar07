@@ -8,7 +8,7 @@ Programming & Data Analysis: Python, SQL, NumPy, Pandas, Power BI
 
 Machine Learning: SVM, Classification, Model Evaluation
 
-Database Management: SQLite, MySQL
+Database Management:  MySQL
 
 Data Visualization: Power BI dashboards, Matplotlib
 
@@ -18,7 +18,6 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
 
-🚕 Uber Trip Data Analysis – Interactive dashboards in Power BI
 
 🌱 I’m currently enhancing my expertise in Business Intelligence & Advanced Analytics. 📌 My goal is to build data-driven solutions that help businesses make smarter decisions
 -->
