@@ -21,3 +21,4 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 🌱 I’m currently enhancing my expertise in Business Intelligence & Advanced Analytics. 📌 My goal is to build data-driven solutions that help businesses make smarter decisions
 -->
+![1000286955](https://github.com/user-attachments/assets/807eb6d4-364c-483e-81fe-f28c12a800bd)
